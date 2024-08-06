@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ProjectAndroidFundamental</string>
+    <string name="username">username</string>
+    <string name="followers">Followers</string>
+    <string name="search">search</string>
+    <string name="search_hint">Search</string>
+    <string name="title_activity_detail">Leanback DetailActivity</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="name">name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="ini_adalah_followers_fragment">ini adalah followers fragment</string>
+    <string name="ini_ada_following_fragment">ini ada following fragment</string>
+    <string name="tab_layout">Tab Layout</string>
+    <string name="favorite">favorite</string>
+    <string name="anda_belum_menambahkan_favorite_apapun">Anda Belum Menambahkan Favorite Apapun</string>
+    <string name="settingbuton">settingbuton</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
